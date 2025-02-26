@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Enjoy several retro video game console music streams at [threv.net](https://threv.net)
+
+Looking for a new band name? Hit up [Band Name of the Week](https://bno.tw)
+
+LinkedIn profile is [here](https://www.linkedin.com/in/mattsimpson242)
+
 <!--
 **mlsimpson/mlsimpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
