@@ -72,6 +72,7 @@ def gen_image(g: Github):
     ]
     
     fetch = generate_fetch(g)
+    print(fetch)
     image = Image.new("RGB", (width, initial_height), bg_color)
     draw = ImageDraw.Draw(image)
     for font_path in font_paths:
