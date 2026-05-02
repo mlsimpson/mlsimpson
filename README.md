@@ -18,15 +18,9 @@
 @@%=............-%@*:..::......#@%-...........=%%% Total Prs: 0
 @@%%#=...........-#@#=-:.......+%%-..........=%@%%
 @@%%@%*:..........:*%*:........=%@=.........:%@%%% https://threv.net | retro console music streams
-@@@@@@@#-...........-..........=%@=........:*@@@@@ https://bno.tw | Band Name(s) of the Week
+@@@@@@@#-...........-..........=%@=........:*@@@@@ https://bno.tw | band name(s) of the Week
 @@@@@@%@%+........::...........*@%:.......+%@%@@@@
-@@@@@@@%@@#=:...::............:-+-.....:=#@@@%%@@@ https://bsky.app/profile/threv.bsky.social | Bluesky
-@@@@@@%%%%@@%#*++============***++++++*%@@@@@@@@@@ https://tiny.tilde.website/@threv | Mastodon
+@@@@@@@%@@#=:...::............:-+-.....:=#@@@%%@@@ https://bsky.app/profile/threv.bsky.social | bluesky
+@@@@@@%%%%@@%#*++============***++++++*%@@@@@@@@@@ https://tiny.tilde.website/@threv | mastodon
 @@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@
 ```
-
-
-## Example Output
-<div align='center'>
-  <img src='out/fetch.png' alt='Github Fetch'>
-</div>
