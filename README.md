@@ -1,11 +1,12 @@
-```@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@ mlsimpson@github.com
+```
+@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@ mlsimpson@github.com
 @@@@@@@@@@@@@@@@%%%%###***+=--=++*#%@@@@@@@@@@@@@@ ------------------------------
 @@@@@@@@%@@@%%*=::.................:=#@@%%@@@@@@@@ Username: mlsimpson
-@@@@@@@%@%@%+=........................+%@%@@@@@@@@ Bio: At night he dreams of an endless Universe filled with strange interactions, ethereal force fields and cogwheels so small they╬ô├ç├ûre indivisible
+@@@@@@@%@%@%+=........................+%@%@@@@@@@@ Bio: At night he dreams of an endless Universe filled with strange interactions, ethereal force fields and cogwheels so small theyΓò¼├┤Γö£├ºΓö£├╗re indivisible
 @@@@@@%%%@#-::.........................=%@%%%%@@@@ Location: Atlanta, GA
-@@@@@@%%@*:..:..................:=+##%=:+%@%%%%@@@ Company: The Mobius on WREK Atlanta 91.1 FM
-@@@%%@@%*.....:..............:=*%@%#+=:.:-*@%%%@@@ Email: maui@threv.net
-@@%%%@%+.......-*#%%%%%%###**%@%*-:........+%@@@@@ LinkedIn: msimpson242
+@@@@@@%%@*:..:..................:=+##%=:+%@%%%%@@@ Email: maui@threv.net
+@@@%%@@%*.....:..............:=*%@%#+=:.:-*@%%%@@@ LinkedIn: msimpson242
+@@%%%@%+.......-*#%%%%%%###**%@%*-:........+%@@@@@
 @@%%%%=.........+*+======++***=:............=%@%%% Hireable: True
 @@%%@*...........::..........................-%@%% Followers: 59
 @@@%*-:...........::..........................:#@% Following: 114
@@ -24,4 +25,5 @@
 @@@@@@%%%%@@%#*++============***++++++*%@@@@@@@@@@ https://bsky.app/profile/threv.bsky.social | bluesky
 @@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@ https://tiny.tilde.website/@threv | mastodon
 ```
+
 
