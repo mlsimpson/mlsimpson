@@ -38,3 +38,6 @@ jobs:
         git add README.md out/fetch.png
         git diff --quiet && git diff --staged --quiet || git commit -m "Update README"
         git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git
+
+  permissions:
+    contents: write
