@@ -1,7 +1,7 @@
 {
     "display_stats": [
         "username",
-        "bio",
+        "bio\n\t\t\n\t\t",
         "location",
         "company",
         "email",
@@ -13,7 +13,6 @@
         "total_stars",
         "created_at",
         "updated_at",
-        "languages",
         "total_commits",
         "total_issues",
         "total_prs"
