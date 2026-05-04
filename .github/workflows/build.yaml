@@ -1,6 +1,6 @@
 name: Start Workflow
 
-#on:
+on:
   #schedule:
   #  - cron: '0 */24 * * *'
   #workflow_dispatch:
