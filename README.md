@@ -2,9 +2,9 @@
 @@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@ mlsimpson@github.com
 @@@@@@@@@@@@@@@@%%%%###***+=--=++*#%@@@@@@@@@@@@@@ ------------------------------
 @@@@@@@@%@@@%%*=::.................:=#@@%%@@@@@@@@ Username: mlsimpson
-@@@@@@@%@%@%+=........................+%@%@@@@@@@@ Bio: At night he dreams of an endless Universe filled with strange interactions, ethereal force fields and cogwheels so small theyΓò¼├┤Γö£├ºΓö£├╗re indivisible
+@@@@@@@%@%@%+=........................+%@%@@@@@@@@ Bio: At night he dreams of an endless Universe filled with strange interactions, ethereal force fields and cogwheels so small they're indivisible
 @@@@@@%%%@#-::.........................=%@%%%%@@@@ Location: Atlanta, GA
-@@@@@@%%@*:..:..................:=+##%=:+%@%%%%@@@ Email: maui@threv.net
+@@@@@@%%@*:..:..................:=+##%=:+%@%%%%@@@ Email: msimpson.cmpe04@gtalumni.org
 @@@%%@@%*.....:..............:=*%@%#+=:.:-*@%%%@@@ LinkedIn: msimpson242
 @@%%%@%+.......-*#%%%%%%###**%@%*-:........+%@@@@@
 @@%%%%=.........+*+======++***=:............=%@%%% Hireable: True
