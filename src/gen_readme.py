@@ -269,10 +269,11 @@ def generate_readme(g: Github):
                 config = json.load(f)
             append_automatic = config.get("append_automatic", True)
             
-            if append_automatic and not re.search(image_pattern, content):
-                content = content.rstrip() + "\n\n" + image_content
+            #if append_automatic and not re.search(image_pattern, content):
+            #    content = content.rstrip() + "\n\n" + image_content
         except FileNotFoundError:
-            content = image_content
+            #content = image_content
+            content = content
         
         with open("README.md", "w", encoding="utf-8") as f:
             f.write(content)
