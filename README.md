@@ -3,7 +3,7 @@
 @@@@@@@@@@@@@@@@%%%%###***+=--=++*#%@@@@@@@@@@@@@@ ------------------------------
 @@@@@@@@%@@@%%*=::.................:=#@@%%@@@@@@@@ Username: mlsimpson
 @@@@@@@%@%@%+=........................+%@%@@@@@@@@ Bio: At night he dreams of an endless Universe filled with strange
-@@@@@@%%%@#-::.........................=%@%%%%@@@@      interactions, ethereal force fields and cogwheels so small they're indivisible
+@@@@@@%%%@#-::.........................=%@%%%%@@@@      interactions, ethereal force fields and cogwheels so small 
 @@@@@@%%@*:..:..................:=+##%=:+%@%%%%@@@      they're indivisible.
 @@@%%@@%*.....:..............:=*%@%#+=:.:-*@%%%@@@ Location: Atlanta, GA
 @@%%%@%+.......-*#%%%%%%###**%@%*-:........+%@@@@@ Email: msimpson.cmpe04@gtalumni.org
