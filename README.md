@@ -20,10 +20,10 @@
 @@%%#=...........-#@#=-:.......+%%-..........=%@%% Total Issues: 0
 @@%%@%*:..........:*%*:........=%@=.........:%@%%% Total Prs: 0
 @@@@@@@#-...........-..........=%@=........:*@@@@@
-@@@@@@%@%+........::...........*@%:.......+%@%@@@@ https://threv.net | retro console music streams
-@@@@@@@%@@#=:...::............:-+-.....:=#@@@%%@@@ https://bno.tw | band name(s) of the Week
+@@@@@@%@%+........::...........*@%:.......+%@%@@@@ https://threv.net                          | retro console music streams
+@@@@@@@%@@#=:...::............:-+-.....:=#@@@%%@@@ https://bno.tw                             | band name(s) of the Week
 @@@@@@%%%%@@%#*++============***++++++*%@@@@@@@@@@ https://bsky.app/profile/threv.bsky.social | bluesky
-@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@ https://tiny.tilde.website/@threv | mastodon
+@@@@@@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@ https://tiny.tilde.website/@threv          | mastodon
 ```
 
 <!--
