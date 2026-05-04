@@ -1,10 +1,10 @@
 name: Start Workflow
 
-on:
-  schedule:
+#on:
+  #schedule:
   #  - cron: '0 */24 * * *'
-  workflow_dispatch:
-  push:
+  #workflow_dispatch:
+  #push:
   #  branches: [ main ]
 jobs:
   build:
